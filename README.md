@@ -1,16 +1,16 @@
 ## Hi there 👋
-
-<!--
-**Marycasmor14/Marycasmor14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Actualmente trabajo en:** Ser mejor estudiante
+**Aprendiendo a profundidad:** Desarrollo Web
+**Me gustaria colaborar en:** Realizar una pagína
+**Busco ayuda o mentoria en:** Redes
+**Preguntame sobre:** Como ser una buena pareja
+**Como contactarme:** marymoralegri28@gmail.com
+**Pronombres:** Mary
+**Dato curioso:** No me gusta tener contacto con los animales
+**Mi setup**
+**Ultimo libro:** Angeles Caidos (Trilogía)
+**Meta para este año:** Pasar más tiempo con mi familia
+**Herramienta favorita:** Visual Studio Code
+**Idiomas que manejo:** Español Nativo
+**Nivel de cafeína:** 5%
+**Cuando no programo:** Estoy en otra clase
